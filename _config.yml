@@ -1,7 +1,7 @@
 name: The Summit Church Denver
 favicon: null
-layout_spectrum: 0.21142670535482466
-typography_spectrum: 0.45539035904221237
+layout_spectrum: 0.15765
+typography_spectrum: 0.74559
 title: The Summit Church
 cta:
   domain: null
@@ -17,13 +17,13 @@ opengraph:
   appId: null
 color:
   brandColors:
-    - '#E0FBFC'
-    - '#C2DFE3'
-    - '#9DB4C0'
-    - '#5C6B73'
-    - '#253237'
-  brandStrength: 0.2780119557864964
-  lightness: 0.01874537719413638
-  saturation: 0.4732133587822318
-  rhythmicContrast: 0.8905433944892138
+    - '#eb6e1f'
+    - '#ffffff'
+    - '#faa635'
+    - '#f6bf9d'
+    - '#aa5500'
+  brandStrength: 0.1875
+  lightness: 0.8125
+  saturation: 0.3125
+  rhythmicContrast: 0.75
 purpose: []
